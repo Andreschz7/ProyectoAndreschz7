@@ -1,0 +1,11 @@
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\bin\Debug\LogIn Soriana.exe.config
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\obj\Debug\LogIn Soriana.csprojResolveAssemblyReference.cache
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\obj\Debug\LogIn_Soriana.Login.resources
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\obj\Debug\LogIn_Soriana.Frm_Menu.resources
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\obj\Debug\LogIn_Soriana.Properties.Resources.resources
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\obj\Debug\LogIn Soriana.csproj.GenerateResource.Cache
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\bin\Debug\LogIn Soriana.exe
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\bin\Debug\LogIn Soriana.pdb
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\obj\Debug\LogIn Soriana.exe
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\obj\Debug\LogIn Soriana.pdb
+C:\Users\juanaoc\OneDrive - soriana.com\Escritorio\Proyectos\LogIn Soriana\LogIn Soriana\obj\Debug\LogIn_Soriana.Registro.resources
